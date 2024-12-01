@@ -1,4 +1,4 @@
-# Apache2 Configuration for Aurelius Chain and Nepheli Coin
+# Configuration for Aurelius Chain and Nepheli Coin
 
 Welcome to the **Aurelius Configuration Repository** for the **Aurelius Chain** and **Nepheli Coin** projects. This repository will be used as an entry point for all configuration files that needed to the project. contains optimized and secure Apache2 virtual host configurations tailored to manage HTTPS traffic, enforce security best practices, and ensure seamless operation of your blockchain and cryptocurrency services.
 
